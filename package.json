@@ -1,0 +1,13 @@
+{
+  "name": "peopledesk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Employee management with shared, persistent online records.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
